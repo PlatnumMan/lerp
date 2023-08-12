@@ -1,4 +1,3 @@
-Certainly! Here's a `README.md` for the Neural Network Visualization project:
 
 ---
 
