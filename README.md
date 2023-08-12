@@ -1,4 +1,3 @@
-
 ---
 
 # Neural Network Visualization with p5.js 🎨
