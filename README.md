@@ -17,12 +17,12 @@ This project provides an interactive neural network visualization using the p5.j
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/YourGitHubUsername/lerp.git
+    git clone https://github.com/PlatnumMan/lerp.git
     ```
 
 2. Navigate to the directory.
     ```bash
-    cd neural-network-visualization
+    cd lerp
     ```
 
 3. Open `index.html` in your preferred web browser.
